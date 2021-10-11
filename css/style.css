@@ -34,7 +34,7 @@ nav li a:hover{
     background-color: #807d7d;
 }
 
-nav li a :target{
+nav li a:target{
     color: #2793e8;
     font-size: medium;
     text-decoration: none;
