@@ -9,7 +9,6 @@ body {
 
 nav li {
     display: inline;
-    padding: 5px;
 }
 
 nav li a{
@@ -19,7 +18,6 @@ nav li a{
     font-size: 20px;
     border: 0.5px solid black;
     border-radius: 5px;
-    padding: 5px;
     background-color: #333333;
 }
 
@@ -30,18 +28,16 @@ nav li a:hover{
     font-size: 20px;
     border: 0.5px solid black;
     border-radius: 5px;
-    padding: 5px;
     background-color: #807d7d;
 }
 
-nav li a:target{
+#target{
     color: #2793e8;
     font-size: medium;
     text-decoration: none;
     font-size: 20px;
     border: 0.5px solid black;
     border-radius: 5px;
-    padding: 5px;
     background-color: #fffdfd;
 }
 
